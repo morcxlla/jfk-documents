@@ -32,23 +32,13 @@ export default function Footer() {
             <p className="ml-2 h-7">rss</p>
           </Link>
         </li>
+
         <li>
           <Link
             className="flex items-center hover:text-neutral-800 dark:hover:text-neutral-100 transition-all"
             rel="noopener noreferrer"
             target="_blank"
-            href="https://github.com/vercel/next.js"
-          >
-            <ArrowIcon />
-            <p className="ml-2 h-7">github</p>
-          </Link>
-        </li>
-        <li>
-          <Link
-            className="flex items-center hover:text-neutral-800 dark:hover:text-neutral-100 transition-all"
-            rel="noopener noreferrer"
-            target="_blank"
-            href="https://vercel.com/templates/next.js/portfolio-starter-kit"
+            href="https://github.com/morcxlla/jfk-documents"
           >
             <ArrowIcon />
             <p className="ml-2 h-7">view source</p>
