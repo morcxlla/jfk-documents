@@ -7,7 +7,7 @@ const navItems = {
   "/documents": {
     name: "Documents",
   },
-  "https://vercel.com/templates/next.js/portfolio-starter-kit": {
+  "https://github.com/morcxlla/jfk-documents": {
     name: "Open source",
   },
 };
